@@ -1,0 +1,10 @@
+body{
+    background: url(https://www.itl.cat/pngfile/big/123-1238595_gameboy-video-games-retro-games-vintage-photography.png);
+}
+#name, .b, #ref{
+    display: flex;
+    justify-content: center;
+     align-items: center;
+     margin: 10vh;
+     font-size: 70px;
+}
